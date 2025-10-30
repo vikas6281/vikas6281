@@ -1,121 +1,125 @@
-# Vadluri Vikas Babu 👋
-> Frontend-focused SDE | React.js · Node.js · UI/UX · Responsive Web Apps  
-Anantapur, Andhra Pradesh · vadlurivikasbabu@gmail.com · 6281574159  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadlurivikas) [![GitHub](https://img.shields.io/badge/GitHub-@vikas6281-181717?logo=github&logoColor=white)](https://github.com/vikas6281)  
+# 👋 Hi, I’m **Vadluri Vikas Babu** (Vikas)
+### SDE Intern • Frontend Engineer • Full-Stack Enthusiast  
+📍 Anantapur, Andhra Pradesh · 📧 vadlurivikasbabu@gmail.com · 📱 +91 62815 74159  
+[LinkedIn](https://www.linkedin.com/in/vadlurivikas) • [GitHub](https://github.com/vikas6281)
 
 ---
 
-## About Me
-I build responsive, user-centered frontend experiences and full-stack prototypes — focused on usability, accessibility, and performance. I’ve reduced manual admin work by 30% through UX-driven enhancements in an HR Employee Self-Service portal during an SDE internship. Tech I use daily: **React.js, Node.js, MySQL, Bootstrap**.  
-(Information sourced from my CV). :contentReference[oaicite:1]{index=1}
+<!-- Header GIF / Hero image -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="coding gif" width="720"/>
+</p>
 
 ---
 
-## Quick Stats
-- 🔭 Currently building: **Grocify App** — responsive grocery ordering web app.  
-- 🧪 Internship: **Sails Software — SDE Intern (Jun 2024 – Aug 2024)** — frontend for Employee Self-Service Portal.  
-- 🛠️ Tech stack: **React.js · Node.js · JavaScript · HTML · CSS · Bootstrap · MySQL · MongoDB · Firebase**.  
-- 🏆 Certificates: DS&A (Udemy), Node.js (Coursera), Generative AI (Coursera), Cloud Computing (NPTEL), PHP Web Apps (Coursera).  
-(Details from my CV). :contentReference[oaicite:2]{index=2}
+## 🔭 About me
+I’m a Computer Science undergraduate at Lovely Professional University (2023–2026) with hands-on experience building responsive web apps, authentication flows, and end-to-end features using React, Node.js and SQL. I completed an SDE internship at **Sails Software** (Jun–Aug 2024), where I implemented an Employee Self-Service portal that reduced HR admin work by ~30%.
 
 ---
 
-## Skills & Tools
-<details>
-<summary>Click to expand — Technical Skills</summary>
+## 🚀 Highlights
+- **Internship:** SDE Intern — Built the frontend for Employee Self-Service Portal using **React.js**, integrated auth and leave tracking.  
+- **Projects:** Grocify (grocery web app), Movie & TV Series App (React + Firebase Auth + Redux), Salon Management System (PHP + MySQL).  
+- **Certifications:** DSA (Udemy), Server-side JS (Coursera), Generative AI w/ LLMs (Coursera), 12-week NPTEL Cloud Computing.
 
+---
+
+## 🧰 Tech Stack & Skills
 - **Languages:** Java, JavaScript, PHP, HTML, CSS  
-- **Frameworks / Libs:** React.js, Node.js, Bootstrap, Redux, React Router  
-- **Databases:** MySQL, MongoDB, Firebase Auth  
-- **Practices:** Responsive Design, Accessibility (a11y), State Management, REST APIs, Git/GitHub  
-- **Soft Skills:** Communication, Leadership, Team Player, Adaptability
-</details>
+- **Frontend:** React.js, Bootstrap, Redux, React Router  
+- **Backend:** Node.js, PHP (MySQL/MongoDB)  
+- **DBs:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, Firebase Auth, Postman  
+- **Soft skills:** Communication, Leadership, Team Player, Adaptability
+
+### Skills radar
+<p align="center">
+  <img alt="Skills Radar" src="https://quickchart.io/chart?c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'React'%2C'Node.js'%2C'Java'%2C'SQL'%2C'HTML%2FCSS'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Level'%2Cdata%3A%5B85%2C75%2C70%2C70%2C80%5D%7D%5D%7D%7D" width="600"/>
+</p>
 
 ---
 
-## Selected Projects
-> Project cards with short descriptions and quick links.
+## 💡 Featured Projects
 
-<details>
-<summary><strong>Grocify App</strong> — React.js (Feb 2025 - Mar 2025)</summary>
+### 1. **Grocify App** (React.js) — Feb 2025 — Mar 2025  
+A responsive grocery ordering web app with dynamic product selection and real-time cart updates.
+- Responsive UI with Bootstrap, custom JS for cart management.
+- Backend: MySQL for product & order storage.
+- Tech: **HTML, CSS, Bootstrap, JavaScript, MySQL**
 
-- Responsive grocery ordering web application with mobile-first layout.  
-- Features: interactive product selection, real-time cart updates, intuitive checkout.  
-- Tech: HTML, CSS, Bootstrap, JavaScript, MySQL.  
-- Repo / Demo: `github.com/vikas6281/grocify` *(add link)*  
-</details>
+> GIF / demo
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRal5V9s1zG/giphy.gif" alt="grocify-demo" width="640"/>
+</p>
 
-<details>
-<summary><strong>Movie & TV Series App</strong> — React.js (Sep 2024 - Oct 2024)</summary>
+### 2. **Movie & TV Series App** (React.js) — Sep 2024 — Oct 2024  
+Full-stack streaming directory with third-party API integration and user auth.
+- Firebase Authentication, favorites list, advanced search & filters.
+- State management with Redux; optimized routing with React Router.
+- Tech: **React.js, Firebase, Redux**
 
-- Full-stack streaming-style app with third-party API data.  
-- Features: Firebase Authentication, personalized favorites, advanced search & filters, Redux-managed state.  
-- Tech: React.js, Firebase, Redux.  
-- Repo / Demo: `github.com/vikas6281/movie-tv-app` *(add link)*
-</details>
-
-<details>
-<summary><strong>Salon Management Website</strong> — PHP (Apr 2024 - May 2024)</summary>
-
-- Appointment booking system with admin dashboard and live booking updates.  
-- Tech: PHP, Bootstrap, JavaScript, MongoDB.  
-- Repo / Demo: `github.com/vikas6281/salon-management` *(add link)*
-</details>
+### 3. **Salon Management Website** (PHP) — Apr 2024 — May 2024  
+Appointment booking with admin dashboard and live booking updates.
+- PHP + MySQL backend, Bootstrap frontend, user auth & admin controls.
+- Tech: **PHP, MySQL, JavaScript, Bootstrap**
 
 ---
 
-## UX Highlights — Design Decisions I Make
-- **Mobile-first flow:** layouts and interactions designed for thumb reach and quick checkout paths.  
-- **Minimal cognitive load:** cleaned navigation, progressive disclosure (collapsible details), and consistent affordances.  
-- **Feedback-rich UI:** immediate form validations, snackbars/toasts for actions, skeleton loaders for network waits.  
-- **Performance-aware:** lazy-loading routes, code-splitting, and optimized assets for low-bandwidth users.
-
----
-
-## Experience
-### Sails Software — SDE Intern (Jun 2024 – Aug 2024)
-- Built the Employee Self-Service Portal frontend with React.js.  
-- Implemented leave application tracking, password management, and user authentication — cut HR admin tasks by ~30%.  
-- Tech used: React.js, Node.js, MySQL.  
-(From CV). :contentReference[oaicite:3]{index=3}
-
----
-
-## Education
-- **Lovely Professional University, Jalandhar** — B.Tech. Computer Science and Engineering (2023–2026) — CGPA: 7.  
-- **Diploma** — Dr. K V S R I T, Kurnool — 67.66% (2017–2020).  
-(From CV). :contentReference[oaicite:4]{index=4}
-
----
-
-## Certifications
+## 🏆 Certifications
 - Data Structures & Algorithms — Udemy  
 - Server-side JavaScript with Node.js — Coursera  
-- HTML, CSS & JavaScript for Web Developers — Coursera  
 - Generative AI with Large Language Models — Coursera  
-- 12-week NPTEL — Cloud Computing  
-- Building Web Applications in PHP — Coursera  
-(From CV). :contentReference[oaicite:5]{index=5}
+- 12-week NPTEL Certification in Cloud Computing  
+- Building Web Applications in PHP — Coursera
 
 ---
 
-## How I work
-1. Kickoff: define user & success metrics.  
-2. Low-fi → high-fi: wireframes → interactive prototypes.  
-3. Build iterative components in React with accessibility baked in.  
-4. Measure & improve: Lighthouse, real-user feedback, light A/B tests.
+## 📈 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas6281&show_icons=true&count_private=true&theme=radical" alt="Vikas's GitHub Stats" width="640"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas6281&layout=compact&langs_count=8&theme=radical" alt="Top Languages" width="430"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas6281&theme=dark" alt="GitHub Streak" width="320"/>
+</p>
 
 ---
 
-## Want to collaborate?
-- 📫 Email: vadlurivikasbabu@gmail.com  
-- 📞 Phone: 6281574159  
-- 🔗 LinkedIn: https://www.linkedin.com/in/vadlurivikas  
-- 🧾 Full CV & portfolio: link(s) to add
+## 💬 Quick Chat (Fun / Personality)
+> **Q:** What do you work on day-to-day?  
+> **A:** Frontend UIs, state management, and connecting REST endpoints. I enjoy making interfaces intuitive and accessible.
+
+> **Q:** What are you learning now?  
+> **A:** Advanced React patterns, Node.js scaling, and applying LLMs to developer tooling.
 
 ---
 
-## GitHub Profile Enhancers (copy these into the repo to show visuals)
-- **Animated contribution chart** (add a dynamic SVG action or use `github-readme-stats` service).  
-- **Top languages / stats**: use [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) cards.  
-Example:
+## 📫 Contact & Links
+- Email: [vadlurivikasbabu@gmail.com](mailto:vadlurivikasbabu@gmail.com)  
+- Phone: +91 62815 74159  
+- LinkedIn: https://www.linkedin.com/in/vadlurivikas  
+- GitHub: https://github.com/vikas6281
+
+---
+
+## ⚙️ How to customize this README
+1. Create a repo named exactly `vikas6281` on GitHub.  
+2. Add this `README.md` to the repo root.  
+3. Replace the GIF image URLs with your demo GIFs or GIFs hosted in `assets/` of that repo (recommended).  
+4. If you want different colors/themes for the stats cards, see:  
+   - GitHub Readme Stats: `https://github-readme-stats.vercel.app/`  
+   - Streak Stats: `https://github-readme-streak-stats.herokuapp.com/`  
+5. To make the skills chart reflect your real skill percentages, update the `data` array inside the QuickChart URL.
+
+---
+
+## 📌 License
+This profile README template is free to use — feel free to copy, edit, and personalize.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="end-gif" width="260"/>
+</p>
