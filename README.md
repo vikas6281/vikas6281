@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikas Babu Vadluri</h1>
+<h1 align="center">Hi 👋, I'm Vadluri Vikas Babu</h1>
 <h3 align="center">A passionate Frontend Developer & MERN Stack Enthusiast from India</h3>
 
 <p align="left">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Battery Passport & Battery Analytics Dashboards**
+- 🔭 I’m currently working on **React.js-based Web Applications & MERN Stack Projects**
 
 - 🌱 I’m currently learning **Generative AI and Cloud Computing**
 
